@@ -1,0 +1,13 @@
+/d/Users/Ricardo/Documents/workspace/learn-python
+
+
+$ git status
+fatal: detected dubious ownership in repository at 'D:/Users/Ricardo/Documents/workspace/learn-python'
+'D:/Users/Ricardo/Documents/workspace/learn-python' is owned by:
+        'S-1-5-21-825506747-658315112-599634506-1001'
+but the current user is:
+        'S-1-5-21-1208409530-2263093778-2072160301-1006'
+To add an exception for this directory, call:
+
+        git config --global --add safe.directory D:/Users/Ricardo/Documents/workspace/learn-python
+		
